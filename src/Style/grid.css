@@ -1,0 +1,20 @@
+.ag-header-cell-label {
+    justify-content: center;
+    color: #FFFFFF;
+ }
+
+ .ag-header-row {
+    background-color: #40434A;
+ }
+
+ .ag-icon-asc, .ag-icon-desc {
+    color: #FFFFFF;
+ }
+
+ .ag-header-cell-label:hover {
+    background-color: #25262949;
+ }
+
+.page_size {
+    padding: 10px;
+}

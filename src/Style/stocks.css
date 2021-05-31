@@ -1,0 +1,23 @@
+.table_link {
+    color: #009A9C;
+    text-decoration: none;
+}
+
+.text_search {
+    padding: 40px 0 20px 0;
+}
+
+.ind_filt{
+    padding: 10px;
+}
+
+.industry_menu {
+    position: relative;
+}
+
+.industry {
+    position : relative;
+    min-width: 200px;
+    display:inline-block;
+    padding-top: 5px;
+}
